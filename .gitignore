@@ -1,2 +1,4 @@
 node_modules/
 auth.json
+auth.js
+db.js
